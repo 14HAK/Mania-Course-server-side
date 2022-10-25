@@ -5,6 +5,7 @@ const cors = require("cors");
 
 app.use(cors())
 const catagories = require('./Data/catagories.json')
+const course = require('./Data/course.json')
 
 
 app.get('/', (req, res) => {
@@ -13,6 +14,14 @@ app.get('/', (req, res) => {
 
 app.get('/catagories', (req, res) => {
   res.send(catagories)
+})
+
+app.get('/course/:id', (req, res) => {
+  const id = req.params.id;
+
+  const catagory_course = course.filter(cour => cour.catagory_id === id);
+  res.send(catagory_course)
+
 })
 
 app.listen(port, () => {
