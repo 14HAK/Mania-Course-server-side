@@ -6,6 +6,7 @@ const cors = require("cors");
 app.use(cors())
 const catagories = require('./Data/catagories.json')
 
+
 app.get('/', (req, res) => {
   res.send('Hello World!')
 })
