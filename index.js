@@ -1,7 +1,7 @@
 const express = require('express')
+const cors = require('cors')
 const app = express()
-const port = 5000
-const cors = require("cors");
+const port = 5000;
 
 app.use(cors())
 const catagories = require('./Data/catagories.json')
@@ -17,13 +17,22 @@ app.get('/catagories', (req, res) => {
 })
 
 app.get('/course/:id', (req, res) => {
-  const id = req.params.id;
+  const myId = req.params.id;
 
-  const catagory_course = course.filter(cour => cour.catagory_id === id);
-  res.send(catagory_course)
+  const catagoryCourse = course.filter(course => course.catagory_id === myId);
+  res.send(catagoryCourse)
 
 })
+
+app.get('/latest/course', (req, res) => {
+  const latest = course.filter(course => course.catagory_id === '1')
+  res.send(latest)
+})
+
+
+
+
 
 app.listen(port, () => {
-  console.log(`Example app listening on port ${port}`)
-})
+  console.log(`site running at port: ${port}`);
+})     

@@ -1,30 +1,30 @@
 [
   {
-    "id": "63581329ffb459b67b13da62",
+    "id": "1",
     "catagory_name": "Latest Tutorial"
   },
   {
-    "id": "63581329e1c7f559950dd57e",
+    "id": "2",
     "catagory_name": "Trending Technologies"
   },
   {
-    "id": "63581329c580dfda07c9c1f9",
+    "id": "3",
     "catagory_name": "Cloud Technology"
   },
   {
-    "id": "63581329117e629d4cfda725",
+    "id": "4",
     "catagory_name": "Python Tutorials"
   },
   {
-    "id": "6358132920983bd32020a2b4",
+    "id": "5",
     "catagory_name": "Java Technology"
   },
   {
-    "id": "635813293eb8beb21e873f0c",
+    "id": "6",
     "catagory_name": "Database Tutorials"
   },
   {
-    "id": "63581329zncjsdhweu4541c",
+    "id": "7",
     "catagory_name": "Web Technology"
   }
 ]
