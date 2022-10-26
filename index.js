@@ -29,6 +29,12 @@ app.get('/latest/course', (req, res) => {
   res.send(latest)
 })
 
+app.get('/detail/:id', (req, res) => {
+  const myId = req.params.id;
+  const singleCourseDetail = course.find(course => course.id === myId)
+  res.send(singleCourseDetail)
+})
+
 
 
 

@@ -1,240 +1,336 @@
 [
   {
+    "id": "1",
+    "details": "https://www.javatpoint.com/reactjs-tutorial",
     "catagory_id": "1",
     "course_name": "React_Js",
     "image": "https://sistemasgeniales.com/wp-content/uploads/2022/01/reactjs.jpg"
   },
   {
+    "id": "2",
+    "details": "https://www.javatpoint.com/regex",
     "catagory_id": "1",
     "course_name": "Reg_Ex",
     "image": "https://d2h1bfu6zrdxog.cloudfront.net/wp-content/uploads/2022/04/coderpad-regex-the-complete-guide.jpg"
   },
   {
+    "id": "3",
+    "details": "https://www.javatpoint.com/spss",
     "catagory_id": "1",
     "course_name": "SPSS",
     "image": "https://access.tufts.edu/sites/default/files/2017-10/SPSS.svg"
   },
   {
+    "id": "4",
+    "details": "https://www.javatpoint.com/react-native-tutorial",
     "catagory_id": "1",
     "course_name": "React_Native",
     "image": "https://icts.io/wp-content/uploads/2020/04/react-native.png"
   },
   {
+    "id": "5",
+    "details": "https://www.javatpoint.com/artificial-intelligence-tutorial",
     "catagory_id": "2",
     "course_name": "Artificial_Intiligenc",
     "image": "https://www.state.gov/wp-content/uploads/2021/06/AI-Motherboard-scaled.jpg"
   },
   {
+    "id": "6",
+    "details": "https://www.javatpoint.com/aws-tutorial",
     "catagory_id": "2",
     "course_name": "AWS",
     "image": "https://pimages.toolbox.com/wp-content/uploads/2022/04/26162218/AWS.png"
   },
   {
+    "id": "7",
+    "details": "https://www.javatpoint.com/cloud-computing-tutorial",
     "catagory_id": "2",
     "course_name": "Cloud_Computing",
     "image": "https://imageio.forbes.com/specials-images/imageserve/5f9fa9e815da35da1356a28b/The-5-Biggest-Cloud-Computing-Trends-In-2021/960x0.jpg?format=jpg&width=960"
   },
   {
+    "id": "8",
+    "details": "https://www.javatpoint.com/devops",
     "catagory_id": "2",
     "course_name": "Dev_Ops",
     "image": "https://imageio.forbes.com/specials-images/imageserve/60f1e792c7e89f933811814c/DevOps-concept/960x0.jpg?format=jpg&width=960"
   },
   {
+    "id": "9",
+    "details": "https://www.javatpoint.com/data-science",
     "catagory_id": "2",
     "course_name": "Data_Science",
     "image": "https://d1m75rqqgidzqn.cloudfront.net/wp-data/2019/09/11134058/What-is-data-science-2.jpg"
   },
   {
+    "id": "10",
+    "details": "https://www.javatpoint.com/angular-7-tutorial",
     "catagory_id": "2",
     "course_name": "Anguler_7",
     "image": "https://www.heliossolutions.co/blog/wp-content/uploads/2018/10/Angular-7-Everything-You-Need-To-Know.jpg"
   },
   {
+    "id": "11",
+    "details": "https://www.javatpoint.com/cloud-computing-tutorial",
     "catagory_id": "3",
     "course_name": "Cloud_Computing",
     "image": "https://images.idgesg.net/images/idge/imported/imageapi/2022/06/21/16/cso_nw_cloud_computing_cloud_network_circuits_by_denis_isakov_gettyimages-966932508_2400x1600-100814451-large-100929305-large.jpg?auto=webp&quality=85,70"
   },
   {
+    "id": "12",
+    "details": "https://www.javatpoint.com/html-tutorial",
     "catagory_id": "7",
     "course_name": "HTML",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"
   },
   {
+    "id": "13",
+    "details": "https://www.javatpoint.com/css-tutorial",
     "catagory_id": "7",
     "course_name": "CSS",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"
   },
   {
+    "id": "14",
+    "details": "https://www.javatpoint.com/javascript-tutorial",
     "catagory_id": "7",
     "course_name": "JavaScript",
     "image": "https://blog.logrocket.com/wp-content/uploads/2021/02/machine-learning-libraries-javascript.png"
   },
   {
+    "id": "15",
+    "details": "https://www.javatpoint.com/nodejs-tutorial",
     "catagory_id": "7",
     "course_name": "Node_Js",
     "image": "https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/777184/secure-rest-api-in-nodejs-18f43b3033c239da5d2525cfd9fdc98f.png"
   },
   {
+    "id": "16",
+    "details": "https://www.javatpoint.com/expressjs-tutorial",
     "catagory_id": "7",
     "course_name": "Express",
     "image": "https://blog.logrocket.com/wp-content/uploads/2020/12/express-middlewares-complete-guide.png"
   },
   {
+    "id": "17",
+    "details": "https://www.javatpoint.com/sass-tutorial",
     "catagory_id": "7",
     "course_name": "SASS",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png"
   },
   {
+    "id": "18",
+    "details": "https://www.javatpoint.com/aws-tutorial",
     "catagory_id": "3",
     "course_name": "AWS",
     "image": "https://i.ytimg.com/vi/JIbIYCM48to/maxresdefault.jpg"
   },
   {
+    "id": "19",
+    "details": "https://www.javatpoint.com/python-tutorial",
     "catagory_id": "4",
     "course_name": "Python",
     "image": "https://www.mytaskpanel.com/wp-content/uploads/2021/05/2021-05-14-1.webp"
   },
   {
+    "id": "20",
+    "details": "https://www.javatpoint.com/django-tutorial",
     "catagory_id": "4",
     "course_name": "django",
     "image": "https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/936807/retina_1708x683_cover-Redesign-DjangoMistakes-Luke_Newsletter-583fce40c721c48192c477deff31dc42-68f8b5b282f890fd6c1888a8e381f130.png"
   },
   {
+    "id": "21",
+    "details": "https://www.javatpoint.com/flask-tutorial",
     "catagory_id": "4",
     "course_name": "Flask",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1200px-Flask_logo.svg.png"
   },
   {
+    "id": "22",
+    "details": "https://www.javatpoint.com/pygame",
     "catagory_id": "4",
     "course_name": "Pygame",
     "image": "https://cms-assets.tutsplus.com/uploads/users/964/posts/24184/preview_image/pygame.jpg"
   },
   {
+    "id": "23",
+    "details": "https://www.javatpoint.com/python-pandas",
     "catagory_id": "4",
     "course_name": "Pandas",
     "image": "https://static.javatpoint.com/interview/images/python-pandas-interview-questions.png"
   },
   {
+    "id": "24",
+    "details": "https://www.javatpoint.com/pytorch",
     "catagory_id": "4",
     "course_name": "Pytourch",
     "image": "https://pytorch.org/tutorials/_static/img/thumbnails/cropped/profiler.png"
   },
   {
+    "id": "25",
+    "details": "https://www.javatpoint.com/microsoft-azure",
     "catagory_id": "3",
     "course_name": "Azura",
     "image": "https://www.sndkcorp.com/wp-content/uploads/2020/12/Azure_Consulting_Services.jpg"
   },
   {
+    "id": "26",
+    "details": "https://www.javatpoint.com/java-tutorial",
     "catagory_id": "5",
     "course_name": "Java",
     "image": "https://www.jrebel.com/sites/default/files/image/2020-05/image-blog-revel-top-java-tools.jpg"
   },
   {
+    "id": "27",
+    "details": "https://www.javatpoint.com/servlet-tutorial",
     "catagory_id": "5",
     "course_name": "Servlets",
     "image": "https://server2client.com/images/servletslogo.webp"
   },
   {
+    "id": "28",
+    "details": "https://www.javatpoint.com/jsp-tutorial",
     "catagory_id": "5",
     "course_name": "JSP",
     "image": "https://images.velog.io/images/yu-jin-song/post/62593c38-7f26-4942-8a18-035f04821fd7/jsp%EB%A1%9C%EA%B3%A0.PNG"
   },
   {
+    "id": "29",
+    "details": "https://www.javatpoint.com/spring-boot-tutorial",
     "catagory_id": "5",
     "course_name": "Spring_Boot",
     "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zrUJwvgZ--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bupbqc9fctvw4j7r14it.png"
   },
   {
+    "id": "30",
+    "details": "https://www.javatpoint.com/apache-ant-tutorial",
     "catagory_id": "5",
     "course_name": "Apache_Ant",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Apache-Ant-logo.svg/1200px-Apache-Ant-logo.svg.png"
   },
   {
+    "id": "31",
+    "details": "https://www.javatpoint.com/jbpm-tutorial",
     "catagory_id": "5",
     "course_name": "JBPM",
     "image": "https://karinavarelame.files.wordpress.com/2020/05/jbpm_logo_600px.png"
   },
   {
+    "id": "32",
+    "details": "https://www.javatpoint.com/primefaces-tutorial",
     "catagory_id": "5",
     "course_name": "PrimeFaces",
     "image": "https://1.bp.blogspot.com/-VjGSdaQru4I/XhVzf551kbI/AAAAAAAAAjo/k-C30lSMYcEC1hjuCtvlgbxsvs9H8B7rQCPcBGAYYCw/w680/primefaces-logo.jpg"
   },
   {
+    "id": "33",
+    "details": "https://www.javatpoint.com/salesforce",
     "catagory_id": "3",
     "course_name": "Salesforce",
     "image": "https://cynoteck.com/wp-content/uploads/2022/06/Salesforce-edition-comparision-min.png"
   },
   {
+    "id": "34",
+    "details": "https://www.javatpoint.com/google-cloud-platform",
     "catagory_id": "3",
     "course_name": "Google_Cloud",
     "image": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/BlogHeader_Set2_D.png"
   },
   {
+    "id": "35",
+    "details": "https://www.javatpoint.com/pdfbox-tutorial",
     "catagory_id": "3",
-    "course_name": "Pagger_Duty",
+    "course_name": "PDF_Box",
     "image": "https://zulipchat.com/static/images/integrations/logos/pagerduty.svg"
   },
   {
+    "id": "36",
+    "details": "https://www.javatpoint.com/git",
     "catagory_id": "2",
     "course_name": "Git",
     "image": "https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2017/03/git-1.png"
   },
   {
+    "id": "37",
+    "details": "https://www.javatpoint.com/mongodb-tutorial",
     "catagory_id": "6",
     "course_name": "Mongo_DB",
     "image": "https://webimages.mongodb.com/_com_assets/cms/kuzt9r42or1fxvlq2-Meta_Generic.png"
   },
   {
+    "id": "38",
+    "details": "https://www.javatpoint.com/mysql-tutorial",
     "catagory_id": "6",
     "course_name": "My_Sql",
     "image": "https://www.simplilearn.com/ice9/free_resources_article_thumb/difference_between_sql_and_mysql.jpg"
   },
   {
+    "id": "39",
+    "details": "https://www.javatpoint.com/postgresql-tutorial",
     "catagory_id": "6",
     "course_name": "Postgry_Sql",
     "image": "https://kinsta.com/wp-content/uploads/2022/02/postgres-logo.png"
   },
   {
+    "id": "40",
+    "details": "https://www.javatpoint.com/pouchdb-tutorial",
     "catagory_id": "6",
     "course_name": "Pounch_DB",
     "image": "https://dbdb.io/media/twitter/pouchdb.png"
   },
   {
+    "id": "41",
+    "details": "https://www.javatpoint.com/oracle-tutorial",
     "catagory_id": "6",
     "course_name": "Oracle",
     "image": "https://www.webopedia.com/wp-content/uploads/1997/02/Webo.OracleProfile.png"
   },
   {
+    "id": "42",
+    "details": "https://www.javatpoint.com/mariadb-tutorial",
     "catagory_id": "6",
     "course_name": "Maria_DB",
     "image": "https://raw.githubusercontent.com/docker-library/docs/fe985dcb24154456254e252d1fa4a2b6b656ee80/mariadb/logo.png"
   },
   {
+    "id": "43",
+    "details": "https://www.javatpoint.com/couchdb-tutorial",
     "catagory_id": "6",
     "course_name": "Couch_DB",
     "image": "https://i0.wp.com/www.technologytu.com/wp-content/uploads/2020/08/how-to-install-and-configure-couchdb-on-Ubuntu-20.04.jpg?fit=800%2C500&ssl=1"
   },
   {
+    "id": "44",
+    "details": "https://www.javatpoint.com/db2-tutorial",
     "catagory_id": "6",
     "course_name": "DB2",
     "image": "https://www.db2tutorial.com/wp-content/uploads/2019/03/db2-tutorial.png"
   },
   {
+    "id": "45",
+    "details": "https://www.javatpoint.com/hadoop-tutorial",
     "catagory_id": "2",
     "course_name": "Hadoop",
     "image": "https://www.javatpoint.com/corebasic/images/big-data-and-hadoop.png"
   },
   {
+    "id": "46",
+    "details": "https://www.javatpoint.com/keras",
     "catagory_id": "1",
     "course_name": "Keras",
     "image": "https://pyimagesearch.com/wp-content/uploads/2020/02/keras_autoencoders_header.png"
   },
   {
+    "id": "47",
+    "details": "https://www.javatpoint.com/swagger",
     "catagory_id": "1",
     "course_name": "Swagger",
     "image": "https://rigorousthemes.com/blog/wp-content/uploads/2021/06/Best-swagger-alternatives.png"
   },
   {
+    "id": "48",
+    "details": "https://www.javatpoint.com/tumblr",
     "catagory_id": "1",
     "course_name": "Tumblr",
     "image": "https://cdn-icons-png.flaticon.com/512/145/145811.png"
